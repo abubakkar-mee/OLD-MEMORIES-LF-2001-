@@ -1,0 +1,95 @@
+body{
+    font-family:cursive;
+    font-size:22px;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.header{}
+.header .container{
+    margin: 0 auto;
+    width: 85%;
+    padding: 10px;
+}
+.header .container .row{
+    display: flex;
+}
+.header .container .row .logo {
+    width: 30%;
+    flex-basis: 30%;
+}
+.logo . img{}
+.nav {
+    width: 70%;
+    flex-basis: 70%;
+}
+.nav ul{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav ul li{list-style-type: none;padding-left: 20px;}
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.content{}
+.content .container{
+    width: 75%;
+    margin: 0 auto;
+}
+.content-box {
+    text-align: justify;
+    margin-bottom: 100px;
+}
+.content-box h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.content-box h2 {color: black;font-size: 15px;padding-top: 10px;margin-bottom: 10px;}
+.content-box p {
+}
+.content-box span{}
+
+
+.blog{
+}
+.blog .container{
+    width: 90%;
+    margin: 0 auto;
+}
+.blog .container .row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 77px;
+}
+.blog .container .row .blog{
+    max-width: 48%;
+    flex-basis: 48%;
+}
+.container .row .blog img{}
+.container .row .blog span{
+    display: block;
+}
+.container .row .blog h2{}
+.container .row .blog p{
+    
+}
+.footer{
+    margin-bottom: 40px;
+}
+.footer .row {
+    display: flex;
+}
+.footer .footer-left{
+    max-width: 45%;
+    flex-basis: 45%;
+    margin-left: 56px;
+}
+.footer .footer-right{
+    max-width: 45%;
+    flex-basis: 45%;
+    justify-content: flex-end;
+    margin-left: 321px;
+}

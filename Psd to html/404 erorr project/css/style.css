@@ -1,0 +1,208 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size:16px;
+    font-family:sans-serif;
+}
+
+
+.linkbg{background-color: #f5f5f5;padding-top: 10px;padding\=bottom: 10px;padding-bottom: 10px;}
+.linkbg .link{max-width: 85%;margin: auto;display: flex;margin-top: ;margin-bottom: ;}
+.linkbg .link .pa{flex-basis: 50%;margin-left: 44px;}
+.linkbg .link .pa i{font-size: 23px;margin-right: 15px;}
+
+.linkbg .link .pb{display: flex;}
+.linkbg .link .pb li{list-style-type: none;padding-right: 46px;font-size: 17px;}
+
+
+
+
+.top{max-width: 85%;margin: auto;display: flex;padding-top: 60px;padding-bottom: 60px;}
+.logo{flex-b: ;flex-basis: 30%;}
+.logo img{}
+.address{flex-basis: 70%;justify-content: flex-end;display: flex;}
+.address .first{display: ;display: flex;margin-right: 7px;}
+.address .first img{height: 32px;margin-top: 5px;margin-right: 8px;}
+.address .first .cn1 h3{}
+.address .first .cn1 p{}
+
+.address .second{display: flex;margin-right: 7px;}
+.address .second img{height: 32px;margin-top: 5px;margin-right: 8px;}
+.address .second .cn2 h3{}
+.address .second .cn2 p{}
+
+
+.address .third{display: flex;margin-right: 7px;}
+.address .third img{height: 32px;margin-top: 5px;margin-right: 8px;}
+.address .third .cn3 h3{}
+.address .third .cn3 p{}
+
+.menu{background-color: #00cce1;}
+.menu .row{max-width: 85%;margin: auto;display: flex;}
+.menu .row .nav{flex-basis: 80%;padding-top: 25px;padding-bottom: 30px;}
+.nav ul{display: flex;}
+.nav ul li{list-style-type: none;margin-right: 42px;}
+.nav ul li a{text-decoration: none;font-size: 21px;color: w;color: white;}
+.appoint{flex-basis: 16%;padding-top: 25px;padding-bottom: 30px;color: white;background-color: #f69165;}
+.appoint li{list-style-type: none;font-size: 21px;margin-left: 28px;}
+
+
+.doctorbg{background-image: url('../image/doctorbg.png');}
+.doctorbg .doctor{background-image: url('../image/ba.png');height: 300px;background-repeat: no-repeat;background-position: center;display: flex;}
+.doctorbg .doctor h2{flex-basis: 40%;margin-top: 150px;margin-left: 194px;
+color:#f69165;
+}
+
+
+.doctorbg .doctor ul{flex-basis: 60%;display: flex;margin-top: 160px;margin-left: 372px;}
+.doctorbg .doctor ul .li1{list-style-type: none;margin-right: 25px;font-size: 17px;}
+.doctorbg .doctor ul .li2{list-style-type: none;margin-right: 25px;}
+.doctorbg .doctor ul .li3{margin-right: 25px;}
+.doctorbg .doctor ul .li4{color: #f69165;}
+
+
+
+.p3bg .p3{max-width: 85%;margin: auto;padding-bottom: 151px;padding-top: 150px;}
+
+.p3bg .p3 .row{display: flex;justify-content: center;margin-top: ;margin-bottom: 80px;}
+.p3bg .p3 .row h2{font-size: 197px;color: #00cce1;}
+.p3bg{margin-top: 46px;background-image: url('../image/doctorbg.png');}
+.p3bg .p3 .row img{}
+
+.p3bg .p3 h2{text-align: center;font-size: 34px;}
+.p3bg .p3 h3{text-align: center;margin-top: 30px;}
+.p3bg .p3 p{text-align: center;font-size: 13px;margin-top: 10px;color: #f7a07a;margin-bottom: ;}
+
+.search{
+    background-color:
+#f5f5f5;
+padding-top: 35px;
+padding-bottom: 35px;
+}
+.search input{
+    justify-content: center;
+    margin: auto;
+    display: block;
+    padding-top: 3px;
+    padding-right: 135px;
+    padding-right: ;
+    padding-left: 22px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+}
+.footerbg{padding-top: 100px;background-image: url('../image/footerbg.png');background-repeat: no-repeat;background-size: cover;padding-bottom: 80px;}
+.footerbg .footer{max-width: 90%;margin: auto;display: flex;justify-content: space-between;}
+
+
+
+
+
+.footerbg .footer .colume1{flex-basis: 32%;}
+.footerbg .footer .colume1 .img1{}
+
+.footerbg .footer .colume1 .p1{color: white;margin-top: 60px;}
+
+.footerbg .footer .colume1 .row1{display: flex;margin-top: 40px;margin-bottom: 25px;}
+.footerbg .footer .colume1 .row1 i{height: ;color: #01c4d8;font-size: 31px;margin-right: 28px;}
+
+.footerbg .footer .colume1 .row1 .p2{color: white;}
+
+.footerbg .footer .colume1 .row2{display: flex;}
+.footerbg .footer .colume1 .row2 i{color: #01c4d8;width: ;font-size: 31px;margin-right: 28px;}
+
+.footerbg .footer .colume1 .row2 .p3{coolor: white;color: white;margin-bottom: 25px;}
+
+.footerbg .footer .colume1 .row3{display: flex;}
+.footerbg .footer .colume1 .row3 i{color: #01c4d8;font-size: 31px;margin-right: 28px;}
+
+.footerbg .footer .colume1 .row3 .p4{color: white;}
+
+
+
+
+
+
+.footerbg .footer .colume2{flex-basis: 32%;}
+
+.footerbg .footer .colume2 h2{color: white;font-size: 31px;margin-left: 35px;margin-bottom: 65px;}
+.footerbg .footer .colume2 .row1{display: flex;}
+.footerbg .footer .colume2 .row1 img{margin-right: 28px;width: 150px;}
+.footerbg .footer .colume2 .row1 p{color: ehite;color: white;}
+
+
+.footerbg .footer .colume2 .row2{display: flex;padding-top: 20px;}
+.footerbg .footer .colume2 .row2 img{margin-right: 28px;width: 150px;}
+.footerbg .footer .colume2 .row2 p{color: white;padding-bottom: ;}
+
+
+.footerbg .footer .colume2 .row3{display: flex;padding-top: 20px;}
+.footerbg .footer .colume2 .row3 img{margin-right: 28px;width: 150px;}
+.footerbg .footer .colume2 .row3 p{color: white;}
+
+
+
+.footerbg .footer .colume2 span{color: white;margin-left: 116px;margin-bottom: ;font-size: 13px;}
+
+
+
+
+.footerbg .footer .colume3{fflex-basis: 30%;flex-basis: 32%;}
+
+.footerbg .footer .colume3 h2{color: white;color: white;font-size: 31px;margin-left: 35px;margin-bottom: 65px;}
+.footerbg .footer .colume3 p{color: white;padding-bottom: 30px;}
+.footerbg .footer .colume3 input {padding: 12px 62px;border: 1px solid black;background: transparent;color: white;margin-bottom: 45px;font-size: ;}
+.footerbg .footer .colume3 button{padding: 4px 20px;background-color: #f69165;border-radius: 2px;border: 1px solid black;}
+
+.footerbg .footer .colume3 .rowp{display: flex;}
+
+.footerbg .footer .colume3 .rowp h3{color: white;font-size: 21px;}
+.footerbg .footer .colume3 .rowp .link{margin-left: 62px;}
+
+.footerbg .footer .colume3 .rowp .link i{color: white;font-size: 20px;margin-right: 18px;background-color: #323232;}
+
+
+
+
+.p8{padding-top: 30px;padding-bottom: 30px;background-color: #161616;}
+
+.p8 h3{text-align: center;color: beige;font-size: 11px;}
+
+.p8 span{
+    color:#00cce1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

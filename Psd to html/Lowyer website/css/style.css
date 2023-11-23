@@ -1,0 +1,229 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:sans-serif;
+    font-size:18px;
+}
+.header{
+height:103px;}
+.header .container{max-width: 85%;margin: auto;}
+.header .container .row{display: flex;}
+.logo{flex-basis: 20%;padding-top: 40px;}
+.logo img{}
+.nav{flex-basis: 80%;display: flex;justify-content: flex-end;}
+.nav ul{display: flex;padding-top: 40px;}
+.nav ul li{list-style-type: none;padding-left: 29px;}
+.nav ul li a{text-decoration: none;color: black;
+font-size:15px;
+}
+
+.who-we-are{}
+.who-we-are .container{}
+.mid{background-image: url('../image/hbg.jpg');height: 82vh;background-repeat: no-repeat;background-size: cover;}
+.mid h2{
+    color:white;
+    max-width: 85%;margin: auto;text-align: center;padding-top: 100px;font-size: 75px;}
+
+.palash2 .container{
+   max-width:85%;
+    margin:auto
+}
+.palash2 .container .row2{
+    display: flex;
+}
+.content{
+    flex-basis: 50%;
+    flex-wrap: wrap;
+    padding-top: 57px;
+}
+.hr1{
+    
+border: 2px solid red;
+    
+width: 78px;
+    
+margin-left: 189px;
+    
+margin-bottom: 2px;
+}
+.content h3{
+    
+font-size: 50px;
+    
+color: #7070c1;
+    
+margin-left: 60px;
+}
+.content p{
+    
+font-size: 19px;
+    
+text-align: justify;
+    
+padding-top: 18px;
+    
+color: gray;
+}
+.image{
+    
+flex-basis: 50%;
+    
+flex-wrap: wrap;
+}
+.image img{
+    
+margin-left: 129px;
+    
+width: 364px;
+    
+height: 400px;
+    
+margin-top: 75px;
+}
+
+
+
+
+
+
+
+
+
+.p{margin-top: 95px;}
+.p .container{width: 85%;margin: auto;}
+.p .container .content2{}
+.content2 .hr2{width: 95px;border: 2px solid blue;margin-left: 486px;margin-bottom: 1px;border-radius: 14px;}
+.content2 h3{font-size: 50px;color: blue;text-align: center;}
+.row3{display: flex;justify-content: space-around;background-image: url('../image/lawyer_pro7.jpg');background-repeat: no-repeat;background-position: right;margin-top: 46px;}
+
+.item1{flex-basis: 29%;position: relative;}
+.item1 img{width: 335px;height: 382px;margin-top: 35px;}
+.item1 h4{top: 50%;right: 50%;bottom: 50%;position: absolute;margin: auto;left: 44%;color: white;}
+
+.item2{flex-basis: 29%;position: relative;}
+.item2 img{margin-top: 35px;width: 335px;height: 382px;}
+.item2 h4{top: 46%;bottom: 50%;left: 36%;right: 50%;margin: auto;position: absolute;color: white;}
+
+
+
+.item3{flex-basis: 29%;position: relative;}
+.item3 img{margin-top: 35px;width: 335px;height: 382px;}
+.item3 h4{top: 50%;bottom: 50%;left: 31%;right: 50%;margin: auto;position: absolute;color: white;}
+
+.p2{margin-top: 100px;background-image: url('../image/pp.jpg');background-repeat: no-repeat;
+padding-bottom: 100px;
+background-size: 100%;
+    background-size: 100%;
+}
+.p2 .container{width: 85%;margin: auto;}
+.p2 .container .row{display: flex;}
+
+.content3{flex-basis: 40%;flex-wrap: wrap;margin-top: 320px;}
+.hr3{width: 57px;border: 2px solid #3ab290;margin-bottom: 5px;margin-left: 10px;}
+.content3 h1{font-size: 36px;color: white;margin-bottom: 25px;}
+.content3 p{font-size: 13px;color: beige;text-align: justify;margin-bottom: 20px;}
+.content3 span{color: #6cc18d;}
+
+.gallery{flex-basis: 60%;display: flex;flex-wrap: wrap;justify-content: space-around;margin-top: 100px;}
+
+.item4{position: relative;}
+.item4 img{width: 300px;height: 329px;}
+.item4 h5{top: 80%;bottom: 50%;left: 27%;right: 50%;margin: auto;position: absolute;color: white;}
+
+.item5{position: relative;}
+.item5 img{width: 300px;height: 329px;}
+.item5 h5{top: 80%;bottom: 50%;left: 27%;right: 50%;margin: auto;position: absolute;color: white;}
+
+
+.item6{position: relative;}
+.item6 img{width: 300px;height: 329px;margin-top: 10px;}
+.item6 h5{top: 80%;bottom: 50%;right: 50%;left: 30%;margin: auto;position: absolute;color: white;}
+
+.item7{position: relative;}
+.item7 img{width: 300px;height: 329px;margin-top: 10px;}
+.item7 h5{top: 80%;bottom: 5o5;bottom: 50%;left: 31%;right: 50%;margin: auto;position: absolute;color: white;}
+
+.p3{
+   padding-bottom: 128px; 
+}
+.p3 .container{max-width: 85%;margin: auto;}
+  
+.upcontent{margin-top: 122px;margin-bottom: 114px;}
+.hr4{width: 85px;border: 2px solid red;margin-left: 491px;}
+.upcontent h3{font-size: 37px;color: #5656b9;text-align: center;}
+.row{display: flex;justify-content: space-around;}
+
+.pera{flex-basis: 23%;}
+.pera h3{margin-bottom: 10px;}
+.pera p{padding-bottom: 19px;color: gray;}
+.pera span{font-size: 22px;color: #df4b40;}
+
+
+
+
+
+
+.contact{background-color: #28377e;padding-top: 142px;padding-bottom: 101px;}
+.contact .container{width: 40%;
+margin: auto;}
+.hr5{width: 55px;
+border: 2px solid #a7c36a;
+margin-left: 218px;}
+.hh
+{font-size: 36px;
+color:
+#43a249;
+text-align: center;
+}
+.form{}
+.name{padding: 8px;
+    padding-right: 8px;
+padding-right: 354px;
+margin-top: 75px;
+background-color: #28377e;
+color: white;
+}
+.email{padding: 8px;
+    padding-right: 8px;
+padding-right: 8px;
+padding-right: 354px;
+margin-top: 10px;
+background-color: #28377e;
+color: white;
+}
+.messeage{padding: 8px;
+    padding-right: 8px;
+padding-right: 8px;
+padding-right: 354px;
+margin-top: 10px;
+background-color: #28377e;
+color: white;
+}
+.form button{padding: 2px 32px;
+margin-top: 34px;
+border-radius: 5px;
+margin-left: 196px;
+background-color: #55ae57;
+}
+.form button a{text-decoration: none;color: white;background-color: ;}
+
+
+
+.fotter{padding-top: 44px;padding-bottom: 33px;background-color: #0c1234;}
+.fotter .container{}
+.fotter .container .row{}
+
+.copyright{}
+
+.copyright h5{color: white;}
+
+.link{}
+.link i{color: white;font-size: 27px;padding-left: 14px;}
+
+
+
+
+
+

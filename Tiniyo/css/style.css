@@ -1,0 +1,125 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family:sans-serif;
+    font-size:20px;
+}
+.header{
+    height: 221px;
+background:#f6f604
+
+}
+
+.header .row{
+        max-width: 85%;
+    margin: auto;
+    display: flex;
+}
+.logo{
+    flex-basis: 40%;
+}
+.logo img{
+    
+width: 128px;
+    margin-top: 39px;
+}
+
+.logo h6{
+float: right;
+margin-right: 605px;
+margin-top: 66px;
+height: 163px;
+width: 109px;
+font-size: 66px; 
+}
+ 
+.nav{
+   flex-basis:60%; 
+}
+.nav ul{
+    display: flex;
+margin-left: 613px;
+margin-top: 48px;
+}
+.nav ul li{
+    list-style-type: none;
+padding: 41px;
+}
+.nav ul li a{
+    text-decoration: none;
+color:
+black;
+font-size: 40px;
+    
+}
+
+.content{
+    height: 842px;
+background:
+yellow;
+}
+
+.content .row{
+    max-width: 85%;
+margin: auto;
+display: flex;
+}
+.row p{
+       flex-basis: 30%;
+    padding-top: 74px;
+    font-size: 36px;
+    text-align: justify;
+    margin: 48px;
+}
+
+.imagesection {
+    flex-basis:30%;
+}
+.imagesection img{
+    padding-top: 53px;
+margin-left: 95px;
+width: 492px;
+}
+
+.footer{
+  height: 245px;
+background:
+#f2f214; 
+}
+.row{
+   max-width: 85%;
+margin: auto;
+display: flex; 
+}
+.row h5{
+   padding-top: 108px;
+flex-basis: 70%;
+font-size: 43px; 
+}
+.link{
+   flex-basis: 30%;
+padding-top: 111px;
+margin-left: 700px; 
+}
+.link i{
+    font-size: 75px;
+padding-right: 10px;
+color:#045765
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
